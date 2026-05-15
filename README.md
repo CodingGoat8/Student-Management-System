@@ -113,7 +113,6 @@ streamlit run app.py
 <img src="https://files.catbox.moe/o1edrd.png" alt="App Screenshot" width="500">
 <img src="https://files.catbox.moe/133fe9.png" alt="App Screenshot" width="500">
 <img src="https://files.catbox.moe/nnyf7q.png" alt="App Screenshot" width="500">
-<img src="https://files.catbox.moe/zzxk4u.png" alt="App Screenshot" width="500">
 ---
 
 # 🌐 Live Demo
