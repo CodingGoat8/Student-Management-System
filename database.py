@@ -2,7 +2,9 @@
 
 from pymongo import MongoClient
 
-client = MongoClient("mongodb://localhost:27017/")
+client = MongoClient(
+    "mongodb+srv://codinggoat8_db_user:SMS_69@sms.bjexqul.mongodb.net/?retryWrites=true&w=majority&appName=SMS"
+)
 
 db = client["school"]
 
