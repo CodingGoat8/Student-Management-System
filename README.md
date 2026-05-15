@@ -110,13 +110,15 @@ streamlit run app.py
 
 # 📸 Screenshots
 
-(Add screenshots here later)
-
+<img src="https://files.catbox.moe/o1edrd.png" alt="App Screenshot" width="500">
+<img src="https://files.catbox.moe/133fe9.png" alt="App Screenshot" width="500">
+<img src="https://files.catbox.moe/nnyf7q.png" alt="App Screenshot" width="500">
+<img src="https://files.catbox.moe/zzxk4u.png" alt="App Screenshot" width="500">
 ---
 
 # 🌐 Live Demo
 
-(Add deployed website link here later)
+[Click Here to View The App](https://student-management-system-bn4wygrupfftc2qgw5bjvq.streamlit.app/)
 
 ---
 
